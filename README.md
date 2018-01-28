@@ -9,6 +9,4 @@ Possible Solution: The developed system could consist of a mechanism (e.g., moto
 
 Group Expertise Needed: 3-4 students including electrical hardware and software expertise, and some mechanical knowhow. 
 
-Advisor: Dr. Scott C. Smith (scott.smith.1@ndsu.edu; ECE 101D) 
-
 This project is supported by a National Science Foundation grant, and therefore comes with a $2,700 budget for purchasing supplies. 
